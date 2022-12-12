@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800&display=swap');
 *{
  color: #fff; 
 }
@@ -8,7 +9,7 @@ body{
   justify-content: center;
   align-items: center;
   text-align: center;
-  font-family: 'Nerko', serif;
+  font-family: 'Montserrat', sans-serif;
   font-size: 20px;
   
 }

@@ -1,9 +1,9 @@
-import Wheather from "./components/Wheather"
+import Weather from "./components/Weather"
 import './App.css';
 
 function App() {
   return (
-  <Wheather/>
+  <Weather/>
   )
 }
 export default App;
